@@ -26,7 +26,7 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 
 ### Links
 
-- Live Site URL: [https://dejuliansr.github.io/front-end-mentor-front-end-mentor-time-tracking-dashboard](https://dejuliansr.github.io/front-end-mentor-front-end-mentor-time-tracking-dashboard)
+- Live Site URL: [https://dejuliansr.github.io/front-end-mentor-time-tracking-dashboard](https://dejuliansr.github.io/front-end-mentor-time-tracking-dashboard)
 
 ## My process
 
